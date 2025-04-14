@@ -91,7 +91,7 @@ The classifier performs very well with high precision and recall for both classe
 
 ## 🧑‍💻 Author
 
-**Sh shank Verma**  
+**Shshank Verma**  
 
 [LinkedIn](https://www.linkedin.com/in/shshankverma) | [Email](mailto:shshankvermaa@gmail.com)
 
